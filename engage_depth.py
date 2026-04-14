@@ -75,7 +75,7 @@ for i, cy in enumerate(pivot_pct.index):
             fontsize=8, color="#333", fontweight="bold")
 
 plt.tight_layout()
-plt.savefig("analysis_1_engagement_funnel.png", dpi=150, bbox_inches="tight")
+plt.savefig("engagement_funnel.png", dpi=150, bbox_inches="tight")
 plt.show()
 
 # ── Summary table for advisors ──

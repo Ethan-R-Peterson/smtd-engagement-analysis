@@ -155,7 +155,7 @@ ax.legend(
 )
 
 plt.tight_layout()
-plt.savefig("analysis_3_transition_heatmap.png", dpi=200, bbox_inches="tight")
+plt.savefig("transition_heatmap.png", dpi=200, bbox_inches="tight")
 plt.show()
 
 # ── Advisor-readable summary ──
