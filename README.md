@@ -1,5 +1,7 @@
 # EXCEL Lab Student Engagement Analysis
 
+[Client Deliverables Slideshow](url)
+
 A data pipeline and analytics project for understanding how students engage with the EXCEL Lab's career programming using longitudinal records from a FileMaker database and a Qualtrics exit survey.
 
 ---
